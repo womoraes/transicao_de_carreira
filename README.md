@@ -1,2 +1,2 @@
-# transicao_de_carreira
+# Transição de Carreira
 Aprendendo os primeiros conceitos na área tecnológica
